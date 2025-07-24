@@ -103,14 +103,6 @@ FROM cte
 ORDER BY 2 DESC
 ```
    
-5. Find tracks where the energy-to-liveness ratio is greater than 1.2.
-6. Calculate the cumulative sum of likes for tracks ordered by the number of views, using window functions.
-
-
-Here’s an updated section for your **Spotify Advanced SQL Project and Query Optimization** README, focusing on the query optimization task you performed. You can include the specific screenshots and graphs as described.
-
----
-
 ## Query Optimization Technique 
 
 To improve query performance, we carried out the following optimization process:
@@ -168,10 +160,4 @@ This optimization shows how indexing can drastically reduce query time, improvin
 
 ---
 
-## Contributing
-If you would like to contribute to this project, feel free to fork the repository, submit pull requests, or raise issues.
 
----
-
-## License
-This project is licensed under the MIT License.
